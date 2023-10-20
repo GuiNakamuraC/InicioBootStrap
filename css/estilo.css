@@ -1,3 +1,12 @@
 .sombra{
     text-shadow: 2px 2px rgb(0, 0, 0);
 }
+p{
+    text-align: justify;
+}
+.container-md{
+    background-color: rgb(202, 202, 202);
+}
+footer{
+    background-image: linear-gradient(to bottom, rgb(202, 202, 202), rgb(255, 255, 255));
+}
