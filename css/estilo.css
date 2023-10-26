@@ -5,8 +5,32 @@ p{
     text-align: justify;
 }
 .container-md{
-    background-color: rgb(202, 202, 202);
+    background-color: rgb(0, 0, 0);
 }
 footer{
     background-image: linear-gradient(to bottom, rgb(202, 202, 202), rgb(255, 255, 255));
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+h1{
+    color: rgb(71, 5, 5), red;
+}
+.accordion-button{
+    background-image: linear-gradient(red,rgb(180, 6, 6),rgb(133, 2, 2));
+    color: white;
+}
+.accordion-button:not(.collapsed){
+    color: white;
+}
+.accordion-item{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 5px 5px rgb(158, 11, 11);
+}
+.col-md-4{
+    padding-top: 5%;
 }
