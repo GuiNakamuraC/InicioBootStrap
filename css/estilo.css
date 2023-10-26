@@ -1,6 +1,9 @@
 .sombra{
     text-shadow: 2px 2px rgb(0, 0, 0);
 }
+.logo{
+    width: 50px;
+}
 p{
     text-align: justify;
 }
