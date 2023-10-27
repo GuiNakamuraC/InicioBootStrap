@@ -8,13 +8,16 @@ p{
     text-align: justify;
 }
 .foot{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 .container-md{
     background-color: rgb(0, 0, 0);
 }
 footer{
-    background-image: linear-gradient(to bottom, rgb(202, 202, 202), rgb(255, 255, 255));
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0),rgb(97, 6, 6), rgb(255, 0, 0));
+    padding-top: 2%;
+    padding-bottom: 0.5%;
 }
 body{
     background-color: black;
@@ -62,4 +65,8 @@ h1{
 }
 .parag{
     margin-bottom: 3%;
+}
+.sobre{
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
