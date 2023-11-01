@@ -94,3 +94,7 @@ h1{
     width: 99.8%;
    
 } 
+.vermelho{
+    color: #7e0303;
+    text-shadow: 1px 1px 1px #ff0000;
+}
